@@ -22,7 +22,8 @@ Folder Structure
 Setup
 Create student_database with students,placements,programming and softskills table.
 
-
-Run the Application: 
-streamlit run code\placement_eligibility_checker.py reload
+Steps:
+1) Create the student database
+2) Execute the code\generate_student_data.py to create tables and load fake data. 
+3) Run the Application: streamlit run code\placement_eligibility_checker.py reload
 
